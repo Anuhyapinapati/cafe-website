@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# Cafe-website
-=======
-# cafe-website
->>>>>>> 1d2e5d961c118ccd27de0c2b82921ff7af56c0c1
+Cafe Website
+This is a modern and responsive cafe website built using HTML, CSS, and JavaScript. It features a clean layout, intuitive navigation, and visually appealing design elements that adapt seamlessly across all devices. The site includes sections for menu, about, products, and blog, offering a complete digital presence for any cafe or coffee business.
